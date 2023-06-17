@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @LucsasL
+# Hi, I’m @LucsasL
 - 👀 I’m interested in learn new languages and technologies!
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on small projects
 - 📫 Contact: lucsas.lira@gmail.com
+
+<a href="https://www.linkedin.com/in/lucsas/" bg="lightblue">Linkedin</a>
 
 <!---
 LucsasL/LucsasL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
