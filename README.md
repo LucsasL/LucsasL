@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on small projects
 - 📫 Contact: lucsas.lira@gmail.com
 
-<a href="https://www.linkedin.com/in/lucsas/" bg="lightblue">Linkedin</a>
+<a href="https://www.linkedin.com/in/lucsas/" target="_blank" rel="external">Linkedin</a>
+
+<a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"></a>
 
 <!---
 LucsasL/LucsasL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
