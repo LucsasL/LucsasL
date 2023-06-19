@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/lucsas/" target="_blank" rel="external">Linkedin</a>
 
-<a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"></a>
+<a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external">Instagram</a>
 
 <!---
 LucsasL/LucsasL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
