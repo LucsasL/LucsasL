@@ -2,16 +2,16 @@
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
-  <img height="165em" float="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
-  <img height="165em" float="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
+  <img height="165em" style="text-align: center;" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
+  <img height="165em" style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
 </div><br>
 
 <div style="display: inline-block">
-  <img float="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img float="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img float="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img float="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img float="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif" style="position: absolute; right: 0px; margin: 300px;">
+  <img style="text-align: center; height: 30; width: 30;" alt="Lucsas-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="text-align: center; height: 30; width: 40;" alt="Lucsas-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img style="text-align: center; height: 30; width: 40;" alt="Lucsas-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img style="text-align: center; height: 30; width: 30;" alt="Lucsas-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img style="text-align: right; height: 100; width: 100;" alt="How do I center a div?"  src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif" style="position: absolute; right: 0px; margin: 300px;">
 </div>
 
   ##
