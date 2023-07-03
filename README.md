@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
 </div><br>
 
 <div style="display: inline-block">
