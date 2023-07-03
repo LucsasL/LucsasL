@@ -11,7 +11,7 @@
   <img float="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img float="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img float="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img float="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
+  <img float="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif" style="position: absolute; right: 0px; margin: 300px;">
 </div>
 
   ##
