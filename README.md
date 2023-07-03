@@ -1,17 +1,17 @@
-## Sup, I’m Lucsas
+![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
-  <img height="165em" text-align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
-  <img height="165em" text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
+  <img height="165em" float="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
+  <img height="165em" float="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
 </div><br>
 
 <div style="display: inline-block">
-  <img text-align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img text-align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img text-align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img text-align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img text-align="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
+  <img float="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img float="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img float="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img float="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img float="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
 </div>
 
   ##
@@ -26,8 +26,3 @@
 ### Summary
 
   I've been studying and improving all my skills in programming and code, so in the beginning of this profile you will just find me explaining about my progress in basic courses. Courses like HTML and CSS and programming logic, that give me the basic structure for a good carrer. You will not find english content here for now, because I'm focusing in learning the basics, since my english is not perfect.
-
-<!---
-LucsasL/LucsasL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
