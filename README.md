@@ -1,13 +1,9 @@
-## 'Sup, I’m @LucsasL
-
-- 👀 I’m interested in learn new languages and technologies!
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on small projects
+## Sup, I’m Lucsas
 
 <div>
-  <a href="https://github.com/LucsasL">
-  <img height="2880px" src="" alt="Lucsas stats">
-  <img height="2880px" src="" alt="Lucsas most used languages">
+  <a href="https://github.com/lucsasl/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&theme=dracula">
 </div><br>
 
 <div style="display: inline-block">
