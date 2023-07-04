@@ -5,15 +5,15 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div style="display: inline-block" align="center">
-  <img style="height: 10; width: 10;" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
+  <img width="30" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
   <h1>Lucas Lira</h1>
-  <img style="height: 10; width: 10;" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
+  <img width="30" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
 </div>
 
 <div style="display: inline-block" align="center">
-  <img style="height: 10; width: 10;" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
+  <img width="30" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
   <h2>A front-end student looking for knowledge</h2>
-  <img style="height: 10; width: 10;" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
+  <img width="30" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
 </div>
 
 <div>
@@ -27,7 +27,7 @@
   <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif" style="position: absolute; right: 0px; margin: 300px;">
+  <img align="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
 </div>
 
   ##
