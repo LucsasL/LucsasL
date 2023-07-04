@@ -4,13 +4,13 @@
 
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
-<div style="display: inline-block" align="center">
+<div style="display: inline-block;" align="center">
   <img width="50" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="center" style="display: inline-block;">
   <h1 style="display: inline-block;">Lucas Lira</h1>
   <img width="50" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="center" style="display: inline-block;">
 </div>
 
-<div style="display: inline-block" align="center">
+<div style="display: inline-block;" align="center">
   <img width="50" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif" align="center" style="display: inline-block;">
   <h2 style="display: inline-block;">A front-end student looking for knowledge</h2>
   <img width="50" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif" align="center" style="display: inline-block;">
