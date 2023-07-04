@@ -1,6 +1,6 @@
-<head>
-  <link rel="stylesheet" href="style/style.css">
-</head>
+<!--
+  Heya :D
+-->
 
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
@@ -35,6 +35,11 @@
   <a href="https://www.linkedin.com/in/lucsas/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Summary
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucsasl&bg_color=0d1117&color=00e1ff&line=3c53fa&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  I've been studying and improving all my skills in programming and code, so in the beginning of this profile you will just find me explaining about my progress in basic courses. Courses like HTML and CSS and programming logic, that give me the basic structure for a good carrer. You will not find english content here for now, because I'm focusing in learning the basics, since my english is not perfect.
+<div><br>
+  <p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img src="https://profile-counter.glitch.me/{lucsasl}/count.svg"></p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7252da&height=120&section=footer"/>
