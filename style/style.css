@@ -1,9 +1,0 @@
-@charset "UTF-8";
-
-div.titles > ul {
-    list-style-type: none;
-}
-
-ul > summary > h1 h2 {
-    text-align: center;
-}

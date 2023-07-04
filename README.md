@@ -4,17 +4,9 @@
 
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
-<div class="titles">
-  <ul>
-    <summary><h1>Lucas Lira</h1></summary>
-  </ul>
-</div>
+<h1 align="center">Lucas Lira</h1>
 
-<div class="titles">
-  <ul>
-    <summary><h2>Lucas Lira</h2></summary>
-  </ul>
-</div>
+<h2 align="center">A front-end student looking for knowledge</h2>
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
