@@ -1,4 +1,20 @@
+<head>
+  <link rel="stylesheet" href="style/style.css">
+</head>
+
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
+
+<div class="titles">
+  <ul>
+    <summary><h1>Lucas Lira</h1></summary>
+  </ul>
+</div>
+
+<div class="titles">
+  <ul>
+    <summary><h2>Lucas Lira</h2></summary>
+  </ul>
+</div>
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
