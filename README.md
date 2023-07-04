@@ -5,15 +5,15 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div style="display: inline-block" align="center">
-  <img style="height: 30; width: 30;" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
+  <img style="height: 10; width: 30;" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
   <h1>Lucas Lira</h1>
-  <img style="height: 30; width: 30;" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
+  <img style="height: 10; width: 30;" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif">
 </div>
 
 <div style="display: inline-block" align="center">
-  <img style="height: 30; width: 30;" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
+  <img style="height: 10; width: 30;" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
   <h2>A front-end student looking for knowledge</h2>
-  <img style="height: 30; width: 30;" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
+  <img style="height: 10; width: 30;" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif">
 </div>
 
 <div>
