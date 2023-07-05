@@ -1,15 +1,7 @@
-<!--
-  Heya :D
--->
-
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div align="center">
-  <h1><img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"> Lucas Lira <img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"></h1>
-</div>
-
-<div align="center">
-  <h2><img width="30" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif"> A front-end student looking for knowledge <img width="30" alt="Cat chilling" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720447758106727/Cat_chilling.gif"></h2>
+  <h2><img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"> GitHub Analytics <img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"></h2>
 </div>
 
 <div>
@@ -28,7 +20,7 @@
   <img align="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
 </div>
 
-  ##
+<h2 align="center"><img width="40" alt="Crazy Frog" src="https://cdn.discordapp.com/attachments/714987717791973488/1126239714098298990/XcF7.gif"> Social Medias <img width="40" alt="Crazy Frog" src="https://cdn.discordapp.com/attachments/714987717791973488/1126239714098298990/XcF7.gif"></h2>
 
 <div>
   <a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
