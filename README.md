@@ -1,6 +1,10 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div align="center">
+<img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
+</div>
+
+<div align="center">
   <h2><img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"> GitHub Analytics <img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"></h2>
 </div>
 
