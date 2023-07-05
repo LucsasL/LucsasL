@@ -11,7 +11,7 @@
 </div><br>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=38bcad&stroke=38bcad" alt="LucsasL">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=fb8c00" alt="LucsasL">
 </div><br>
 
 <div style="display: inline-block">
