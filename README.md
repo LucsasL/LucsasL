@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2><img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"> GitHub Analytics <img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"></h2>
+  <h2><img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"> ⚙️ GitHub Analytics ⚙️ <img width="40" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif"></h2>
 </div>
 
 <div>
