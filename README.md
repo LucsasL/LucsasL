@@ -18,6 +18,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=fb8c00" alt="LucsasL">
 </div><br>
 
+<h2 align="center">Tech Stack</h2>
 <div style="display: inline-block">
   <img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
