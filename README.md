@@ -32,10 +32,6 @@
   <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
 </div>
 
-<div style="inline-block" align="right">
-  <img src="Images/block.png">
-</div>
-
 <h2 align="center"><img width="40" alt="Crazy Frog" src="https://cdn.discordapp.com/attachments/714987717791973488/1126239714098298990/XcF7.gif"> Social Medias <img width="40" alt="Crazy Frog" src="https://cdn.discordapp.com/attachments/714987717791973488/1126239714098298990/XcF7.gif"></h2>
 
 <div>
