@@ -22,7 +22,7 @@
 <div style="display: inline-block" align="left">
   <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="How do I center a div?" height="100" width="100" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
+  <img align="right" alt="How do I center a div?" width="85" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
 </div>
 
 <h2 align="center">📖 Studying tech 📖</h2>
@@ -32,7 +32,7 @@
   <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
 </div>
 
-<h2 align="center"><img width="40" alt="Crazy Frog" src="https://cdn.discordapp.com/attachments/714987717791973488/1126239714098298990/XcF7.gif"> Social Medias <img width="40" alt="Crazy Frog" src="https://cdn.discordapp.com/attachments/714987717791973488/1126239714098298990/XcF7.gif"></h2>
+<h2 align="center">🌐 Social Medias 🌐</h2>
 
 <div>
   <a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
