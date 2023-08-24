@@ -18,6 +18,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=fb8c00" alt="LucsasL">
 </div><br>
 
+<div>
 <img src="Images/Block.png" alt="Teste" width="30%" align="right">
   
 <h2 align="center">💻 Tech Stack 💻</h2>
@@ -29,14 +30,17 @@
   <img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
-  
+</div>
+
+<div style="display: block;">
   <img src="Images/Block.png" alt="Teste" width="30%" align="left">
 <h2 align="center">🌐 Social Medias 🌐</h2>
 
-<div>
+<div style="width: 70%; float: right;">
   <a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:lucsas.lira@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucsas/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucsasl&bg_color=0d1117&color=00e1ff&line=3c53fa&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
