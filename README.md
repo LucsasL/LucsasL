@@ -29,7 +29,8 @@
   <img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
-
+  
+  <img src="Images/Block.png" alt="Teste" width="30%" align="left">
 <h2 align="center">🌐 Social Medias 🌐</h2>
 
 <div>
