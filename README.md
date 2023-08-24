@@ -32,8 +32,7 @@
   <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
 </div>
 
-<div style="display: block;">
-  <img src="Images/Block.png" alt="Teste" width="30%" align="left">
+<div style="width: 100%">
 <h2 align="center">🌐 Social Medias 🌐</h2>
 
 <div style="width: 70%; float: right;">
