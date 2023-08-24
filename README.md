@@ -18,19 +18,17 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=fb8c00" alt="LucsasL">
 </div><br>
 
+<img src="Images/Block.png" alt="Teste" width="30%" align="right">
+  
 <h2 align="center">💻 Tech Stack 💻</h2>
-<div style="display: inline-block" align="left">
   <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="How do I center a div?" width="85" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
-</div>
 
 <h2 align="center">📖 Studying tech 📖</h2>
-<div style="inline-block" align="left">
   <img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
-</div>
 
 <h2 align="center">🌐 Social Medias 🌐</h2>
 
