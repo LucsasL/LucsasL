@@ -30,6 +30,7 @@
     <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="right" alt="How do I center a div?" width="85" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
   </div>
+<br>
 
 - I've been studying:
 <div style="display: block; margin-top: 10px">
