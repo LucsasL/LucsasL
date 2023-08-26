@@ -23,7 +23,7 @@
   
 <h2 align="center">💻 Tech Stack 💻</h2>
 
- - I have knowledge in:
+- I have knowledge in:
 
 <div style="display: block; margin-top: 10px; margin-bottom: 10px">
     <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
