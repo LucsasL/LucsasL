@@ -5,14 +5,19 @@
 
 # Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
+### A passionate frontend developer from Brazil
 
 I've been working in the README code, soon this will be finished.
 
-- Studying programming to become a programmer
-- Actually exploring the **Front-End Technologies**
-- test
-- test
-- test
+- 📚 Studying programming to become a programmer
+  
+- 👀 Actually exploring the **Front-End Technologies**
+  
+- 🌱 I’m currently learning **JavaScript, Python and Algorithm**
+
+- 👯 I’m looking to collaborate on **small projects**
+
+- 💬 Ask me about **HTML and CSS**
 
 ## 🛠️ Tech Stack
 
@@ -30,16 +35,12 @@ I've been studying:
 </div>
 </div>
 
-<div style="width: 100%">
-  
-## 🌐 Social Medias
-  
-<div style="width: 70%; float: right;">
-  <a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:lucsas.lira@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucsas/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-</div>
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/lucsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucsas" height="30" width="40" /></a>
+<a href="https://instagram.com/lucsas.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsas.l" height="30" width="40" /></a>
+<a href="https://www.behance.net/lucaslira27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucaslira27" height="30" width="40" /></a>
+</p>
 
 <div align="center">
   <h2>⚙️ GitHub Analytics ⚙️</h2>
