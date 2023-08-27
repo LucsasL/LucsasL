@@ -1,13 +1,19 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div>
-<img src="Images/block-design.png" alt="Teste" width="40%" height="330" align="right">
+<img src="Images/Block-design.png" alt="Teste" width="40%" align="right">
 
 # Hi dear <img src="" alt="">, I'm Lucas Lira
-<img src="https://badges.pufler.dev/repos/lucsasl&color=blue"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl&color=blue">
+<img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 
 fadkofjkaofjpkçp loredasfjafjadspfjadpfjadpfjakpfjpadkfpakdlfkalfkkamdkvjdapdkflkadlmfkadjviosdpafoaklfkmakdsnvjsiapfkaslfka
-  
+
+- test <img align="right" alt="How do I center a div?" width="90" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif"><br>
+- test 
+- test
+- test
+- test <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
+
 ## 💻 Tech Stack
 
 - I have knowledge in:
@@ -15,7 +21,6 @@ fadkofjkaofjpkçp loredasfjafjadspfjadpfjadpfjakpfjpadkfpakdlfkalfkkamdkvjdapdkf
 <div style="display: block; margin-top: 10px; margin-bottom: 10px">
     <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="How do I center a div?" width="85" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
   </div>
 <br>
 
@@ -23,7 +28,6 @@ fadkofjkaofjpkçp loredasfjafjadspfjadpfjadpfjakpfjpadkfpakdlfkalfkkamdkvjdapdkf
 <div style="display: block; margin-top: 10px">
     <img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
     <img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img width="89" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
   </div>
 </div>
 
