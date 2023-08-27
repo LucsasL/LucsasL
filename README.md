@@ -4,22 +4,8 @@
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 </div>
 
-<div align="center">
-  <h2>⚙️ GitHub Analytics ⚙️</h2>
-</div>
-
 <div>
-  <a href="https://github.com/lucsasl/github-readme-stats">
-  <img width="60%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
-  <img width="35%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
-</div><br>
-
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=fb8c00" alt="LucsasL">
-</div><br>
-
-<div>
-<img src="Images/Block.png" alt="Teste" width="30%" align="right">
+<img src="Images/Block.png" alt="Teste" width="40%" height="330" align="right">
   
 <h2 align="center">💻 Tech Stack 💻</h2>
 
@@ -49,7 +35,20 @@
   <a href="https://www.linkedin.com/in/lucsas/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </div>
-<br>
+
+<div align="center">
+  <h2>⚙️ GitHub Analytics ⚙️</h2>
+</div>
+
+<div>
+  <a href="https://github.com/lucsasl/github-readme-stats">
+  <img width="60%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
+  <img width="35%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
+</div><br>
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=fb8c00" alt="LucsasL">
+</div><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucsasl&bg_color=0d1117&color=00e1ff&line=3c53fa&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
