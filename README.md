@@ -1,34 +1,39 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
-<div align="center">
-<img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
-</div>
-
 <div>
-<img src="Images/Block.png" alt="Teste" width="40%" height="330" align="right">
-  
-<h2 align="center">💻 Tech Stack 💻</h2>
+<img src="Images/Block-design.png" align="right">
 
-- I have knowledge in:
+# Hi👋, I'm Lucas Lira
+<img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
+
+I've been working in the README code, soon this will be finished.
+
+- Studying programming to become a programmer
+- Actually exploring the **Front-End Technologies**
+- test
+- test
+- test
+
+## 🛠️ Tech Stack
+
+I have knowledge in:
 
 <div style="display: block; margin-top: 10px; margin-bottom: 10px">
-    <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="How do I center a div?" width="85" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif">
-  </div>
-<br>
+<img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br>
 
-- I've been studying:
+I've been studying:
 <div style="display: block; margin-top: 10px">
-    <img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-    <img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img width="89" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
-  </div>
+<img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
+<img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 </div>
 
 <div style="width: 100%">
-<h2 align="center">🌐 Social Medias 🌐</h2>
-
+  
+## 🌐 Social Medias
+  
 <div style="width: 70%; float: right;">
   <a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:lucsas.lira@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
