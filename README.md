@@ -3,16 +3,16 @@
 <div>
 <img src="Images/Block-design.png" alt="Teste" width="40%" align="right">
 
-# Hi dear <img src="" alt="">, I'm Lucas Lira
+# Hi, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 
-fadkofjkaofjpkçp loredasfjafjadspfjadpfjadpfjakpfjpadkfpakdlfkalfkkamdkvjdapdkflkadlmfkadjviosdpafoaklfkmakdsnvjsiapfkaslfka
+I've been working in the README code, soon this will be finished.
 
-- test <img align="right" alt="How do I center a div?" width="90" src="https://cdn.discordapp.com/attachments/714987717791973488/1125444405210394694/72gi.gif"><br>
+- test
 - test 
 - test
 - test
-- test <img width="90" alt="Sponge bob vibing" src="https://cdn.discordapp.com/attachments/714987717791973488/1125720448257241098/Sponge_bob_dancing.gif" align="right">
+- test
 
 ## 💻 Tech Stack
 
