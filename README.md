@@ -3,32 +3,31 @@
 <div>
 <img src="Images/Block-design.png" alt="Teste" width="40%" align="right">
 
-# Hi, I'm Lucas Lira
+# Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 
 I've been working in the README code, soon this will be finished.
 
-- test
-- test 
+- Studying programming to become a programmer
+- Actually exploring the **Front-End Technologies**
 - test
 - test
 - test
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-- I have knowledge in:
+I have knowledge in:
 
 <div style="display: block; margin-top: 10px; margin-bottom: 10px">
-    <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-<br>
+<img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div><br>
 
-- I've been studying:
+I've been studying:
 <div style="display: block; margin-top: 10px">
-    <img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-    <img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
+<img align="center" alt="Lucsas-JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
+<img align="center" alt="Lucsas-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 </div>
 
 <div style="width: 100%">
