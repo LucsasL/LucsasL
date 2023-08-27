@@ -5,7 +5,7 @@
 </div>
 
 <div>
-<img src="Images/Block.png" alt="Teste" width="30%" align="right">
+<img src="Images/Block.png" alt="Teste" width="40%" height="330" align="right">
   
 <h2 align="center">💻 Tech Stack 💻</h2>
 
