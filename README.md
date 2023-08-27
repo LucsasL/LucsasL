@@ -1,13 +1,14 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
-<div align="center">
-<img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
-</div>
-
 <div>
-<img src="Images/Block.png" alt="Teste" width="40%" height="330" align="right">
+<img src="Images/block-design.png" alt="Teste" width="40%" height="330" align="right">
+
+# Hi dear <img src="" alt="">, I'm Lucas Lira
+<img src="https://badges.pufler.dev/repos/lucsasl&color=blue"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl&color=blue">
+
+fadkofjkaofjpkçp loredasfjafjadspfjadpfjadpfjakpfjpadkfpakdlfkalfkkamdkvjdapdkflkadlmfkadjviosdpafoaklfkmakdsnvjsiapfkaslfka
   
-<h2 align="center">💻 Tech Stack 💻</h2>
+## 💻 Tech Stack
 
 - I have knowledge in:
 
@@ -27,8 +28,9 @@
 </div>
 
 <div style="width: 100%">
-<h2 align="center">🌐 Social Medias 🌐</h2>
-
+  
+## 🌐 Social Medias
+  
 <div style="width: 70%; float: right;">
   <a href="https://www.instagram.com/lucsas.l/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:lucsas.lira@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
