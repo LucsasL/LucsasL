@@ -37,7 +37,7 @@ I've been studying:
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/lucsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucsas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucsas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucsas" height="30" width="40" /></a>
 <a href="https://instagram.com/lucsas.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsas.l" height="30" width="40" /></a>
 <a href="https://www.behance.net/lucaslira27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucaslira27" height="30" width="40" /></a>
 </p>
