@@ -34,6 +34,11 @@ I've been studying:
 <img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 <img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
+
+<div align="right">
+Tools I use: <br>
+<img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+</div>
 </div>
 
 ### 🌐 Connect with me:
