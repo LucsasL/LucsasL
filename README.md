@@ -22,17 +22,12 @@ I've been working in the README code, soon this will be finished.
 ## 🛠️ Tech Stack
 
 <div>
-  <div>
-    <p>I have knowledge in:</p>
-      <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <p align="right">Tools I use: <br>
-      <img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
-      <img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-      <img src="Images/Block.png" align="right" height="100" width="55%">
-    </p>
-  </div>
+  <p>I have knowledge in:</p>
+    <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
+
+<img src="Images/Block.png" align="right" height="100" width="450">
 
 I've been studying:
 <div style="display: block; margin-top: 10px">
@@ -40,6 +35,7 @@ I've been studying:
 <img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 <img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
+
 </div>
 
 ### 🌐 Connect with me:
