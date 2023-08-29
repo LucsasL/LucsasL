@@ -22,10 +22,10 @@ I've been working in the README code, soon this will be finished.
 ## 🛠️ Tech Stack
   
 I have knowledge in: <br>
-<img src="Images/Block.png" align="right" height="150" width="380">
 <div>
     <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img src="Images/Block.png" align="right" height="150" width="380">
 </div> <br>
 
 I've been studying:
