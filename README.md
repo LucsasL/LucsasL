@@ -27,7 +27,7 @@ I've been working in the README code, soon this will be finished.
     <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<img src="Images/Block.png" align="right" height="150" width="437">
+<img src="Images/Block.png" align="right" height="150" width="380">
 
 I've been studying:
 <div style="display: block; margin-top: 10px">
