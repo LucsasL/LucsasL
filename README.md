@@ -36,7 +36,8 @@ I've been studying:
 </div>
 
 <div align="right">
-Tools I use: <br>
+Tools I use: <br>  
+<img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
 <img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 </div>
 </div>
