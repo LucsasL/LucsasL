@@ -33,7 +33,7 @@ I have knowledge in:
     Tools I use: <br>  
     <img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
     <img align="center" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-        <img src="Images/Block.png" align="right" height="100" width="43%">
+        <img src="Images/Block.png" align="right" height="100" width="50%">
     </div>
 </div><br>
 
