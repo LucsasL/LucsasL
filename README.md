@@ -27,7 +27,7 @@ I've been working in the README code, soon this will be finished.
     <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-<img src="Images/Block.png" align="right" height="100" width="450">
+<img src="Images/Block.png" align="right" height="150" width="430">
 
 I've been studying:
 <div style="display: block; margin-top: 10px">
@@ -43,7 +43,7 @@ I've been studying:
 <a href="https://www.linkedin.com/in/lucsas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucsas" height="30" width="40" /></a>
 <a href="https://instagram.com/lucsas.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsas.l" height="30" width="40" /></a>
 <a href="https://www.behance.net/lucaslira27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucaslira27" height="30" width="40" /></a>
-</p>
+</p> <br />
 
 <div align="center">
   <h2>⚙️ GitHub Analytics ⚙️</h2>
