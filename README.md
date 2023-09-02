@@ -1,7 +1,7 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div>
-<img src="Images/Block-design.png" align="right">
+<img src="Images/Mobile.svg" alt="Lucsas programmer" align="right">
 
 # Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
@@ -25,7 +25,6 @@ I have knowledge in: <br>
 <div>
     <img align="center" alt="Lucsas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Lucsas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img src="Images/Block.png" align="right" height="150" width="380">
 </div> <br>
 
 I've been studying:
@@ -42,7 +41,7 @@ I've been studying:
 <a href="https://www.linkedin.com/in/lucsas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucsas" height="30" width="40" /></a>
 <a href="https://instagram.com/lucsas.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsas.l" height="30" width="40" /></a>
 <a href="https://www.behance.net/lucaslira27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucaslira27" height="30" width="40" /></a>
-</p> <br />
+</p> <br /> <br /> <br />
 
 <div align="center">
   <h2>⚙️ GitHub Analytics ⚙️</h2>
