@@ -1,7 +1,7 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div>
-<img src="" alt="Lucsas programmer" align="right">
+<img src="Images/Mobile.jpg" alt="Lucsas programmer" align="right">
 
 # Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
