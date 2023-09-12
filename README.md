@@ -7,6 +7,8 @@
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 ### A passionate frontend developer from Brazil
 
+My goals resumes in:
+
 - 📚 Studying programming to become a programmer
   
 - 👀 Actually exploring the **Front-End Technologies**
