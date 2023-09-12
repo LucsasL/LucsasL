@@ -7,13 +7,11 @@
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 ### A passionate frontend developer from Brazil
 
-I've been working in the README code, soon this will be finished.
-
 - 📚 Studying programming to become a programmer
   
 - 👀 Actually exploring the **Front-End Technologies**
   
-- 🌱 I’m currently learning **JavaScript, Python and Algorithm**
+- 🌱 I’m currently learning **JavaScript, Python, Wordpress, Tailwind Css and linux**
 
 - 👯 I’m looking to collaborate on **small projects**
 
