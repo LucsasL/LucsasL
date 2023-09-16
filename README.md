@@ -13,7 +13,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End Technologies**
   
-- 🌱 I’m currently learning **JavaScript, Python, Wordpress, Tailwind Css and linux**
+- 🌱 I’m currently learning **JavaScript, Python, Wordpress, Tailwind CSS and linux**
 
 - 👯 I’m looking to collaborate on **small projects**
 
