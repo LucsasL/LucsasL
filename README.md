@@ -13,11 +13,11 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End Technologies**
   
-- 🌱 I’m currently learning **JavaScript, Python, Wordpress, Tailwind CSS and linux**
+- 🌱 I’m currently learning **Tailwind CSS, React Js, Django, Flask, MySQL**
 
 - 👯 I’m looking to collaborate on **small projects**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML and CSS, JavaScript and Python**
 
 ## 🛠️ Tech Stack
   
