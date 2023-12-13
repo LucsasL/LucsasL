@@ -13,7 +13,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End Technologies**
   
-- 🌱 I’m currently learning **Tailwind CSS, React JS, Django, Flask, MySQL**
+- 🌱 I’m currently learning **C, Tailwind CSS, React JS, Django, Flask, MySQL**
 
 - 👯 I’m looking to collaborate on **small projects**
 
@@ -33,7 +33,8 @@ I have knowledge in: <br>
 
 I've been studying:
 <div style="display: block; margin-top: 10px">
-<img align="center" alt="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> &nbsp;
+<img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp;
+<img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> &nbsp;
 <img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
 <img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> &nbsp;
 <img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> &nbsp;
