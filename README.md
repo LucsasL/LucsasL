@@ -38,7 +38,8 @@ I've been studying:
 <img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
 <img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> &nbsp;
 <img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> &nbsp;
-<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
+<img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
 </div>
