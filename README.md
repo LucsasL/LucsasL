@@ -13,7 +13,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End Technologies**
   
-- 🌱 I’m currently learning **C, Tailwind CSS, React JS, Django, Flask, MySQL**
+- 🌱 I’m currently learning **C, Tailwind CSS, React JS, Django, Flask, MySQL and Sass**
 
 - 👯 I’m looking to collaborate on **small projects**
 
