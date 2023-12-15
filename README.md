@@ -65,8 +65,6 @@ I've been studying:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=121326&border=8652ce&dates=fb8c00" alt="LucsasL">
 </div><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucsasl&bg_color=0d1117&color=00e1ff&line=3c53fa&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div><br>
   <p align="center"><b>Visitors Count</b></p>
   <p align="center"><img src="https://profile-counter.glitch.me/{lucsasl}/count.svg"></p>
