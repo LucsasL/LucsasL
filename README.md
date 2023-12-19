@@ -58,7 +58,7 @@ I've been studying:
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
   <img width="60%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=121326&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
-  <img width="35%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
+  <img width="35%" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&langs_count=8&bg_color=121326&title_color=8652ce&text_color=38bcad&border_color=8652ce">
 </div><br>
 
 <div>
