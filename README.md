@@ -11,7 +11,7 @@ My goals resumes in:
 
 - 📚 Studying programming to become a programmer
   
-- 👀 Actually exploring the **Front-End Technologies**
+- 👀 Actually exploring the **Front-End and Back-End Technologies**
   
 - 🌱 I’m currently learning **C, Tailwind CSS, React JS, Django, Flask, MySQL and Sass**
 
