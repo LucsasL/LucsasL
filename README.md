@@ -1,7 +1,6 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div>
-![Le troll](Images/le-troll.gif)
 
 # Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
@@ -20,6 +19,8 @@ My goals resumes in:
 - 💬 Ask me about **HTML, CSS, JavaScript and Python**
 
 ## 🛠️ Tech Stack
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
   
 I have knowledge in: <br>
 <div>
@@ -40,7 +41,8 @@ I've been studying:
 <img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> &nbsp;
 <img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> &nbsp;
 <img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
-<img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
+<img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 </div>
