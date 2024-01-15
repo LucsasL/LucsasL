@@ -30,7 +30,7 @@ My goals resumes in:
     <img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     <img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
-</div> <br>
+</div>
 
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
