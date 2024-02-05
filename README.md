@@ -4,7 +4,7 @@
 
 # Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
-### A passionate frontend developer & Traffic Manager from Brazil
+### A passionate frontend developer & PPC Manager from Brazil
 
 My goals resumes in:
 
