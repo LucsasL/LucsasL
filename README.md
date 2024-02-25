@@ -21,10 +21,9 @@ My goals resumes in:
 - 💬 Ask me about **HTML, CSS, JavaScript and Python**
 
 ## 🛠️ Tech Stack
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
   
 #### I have knowledge in: <br>
+
 <div>
     <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
     <img align="center" alt="Lucsas-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
@@ -33,6 +32,8 @@ My goals resumes in:
     <img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
     <img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 </div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 #### Tools I know how to use:
 <div>
