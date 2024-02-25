@@ -1,7 +1,7 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div>
-  <img src="Images/Lucsas.png" align="right" width="33%">
+  <img src="Images/Lucsas.png" align="right" width="40%">
 </div>
   
 # Hi👋, I'm Lucas Lira
