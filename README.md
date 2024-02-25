@@ -1,7 +1,9 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
 
 <div>
-
+  <img src="Images/Lucsas.png" align="right" width="33%">
+</div>
+  
 # Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 ### A passionate frontend developer & PPC Manager from Brazil
