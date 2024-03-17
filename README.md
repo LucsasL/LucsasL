@@ -64,9 +64,7 @@ My goals resumes in:
 <a href="https://www.behance.net/lucaslira27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucaslira27" height="30" width="40" /></a>
 </p> <br />
 
-<div align="center">
-  <h2>⚙️ GitHub Analytics ⚙️</h2>
-</div>
+<h2>⚙️ GitHub Analytics</h2>
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
