@@ -42,6 +42,11 @@ My goals resumes in:
     <img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /> &nbsp;
 </div>
 
+#### Operating Systems I know how to use:
+<div>
+  <img align="center" alt="Windows" height="30" src="" /> &nbsp;
+</div>
+
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
 <img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp;
