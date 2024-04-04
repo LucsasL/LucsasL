@@ -45,7 +45,7 @@ My goals resumes in:
 #### Operating Systems I know how to use:
 <div>
   <img align="center" alt="Windows" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> &nbsp;
-  <img align="center" alt="Git" width="30" src="images/spline.png"> &nbsp;
+  <img align="center" alt="Spline" width="30" src="Images/spline.png"> &nbsp;
 </div>
 
 #### I've been studying:
