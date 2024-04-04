@@ -40,12 +40,12 @@ My goals resumes in:
     <img align="center" alt="Visual Studio Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
     <img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
     <img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /> &nbsp;
+    <img align="center" alt="Spline" width="30" src="Images/spline.png"> &nbsp;
 </div>
 
 #### Operating Systems I know how to use:
 <div>
   <img align="center" alt="Windows" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> &nbsp;
-  <img align="center" alt="Spline" width="30" src="Images/spline.png"> &nbsp;
 </div>
 
 #### I've been studying:
