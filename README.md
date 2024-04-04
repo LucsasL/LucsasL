@@ -25,49 +25,53 @@ My goals resumes in:
 #### I have knowledge in: <br>
 
 <div>
-    <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-    <img align="center" alt="Lucsas-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-    <img align="center" alt="Lucsas-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-    <img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> &nbsp;
-    <img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;
-    <img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="Lucsas-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> &nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Lucsas-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> &nbsp;
+  <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a> &nbsp;
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 #### Tools I know how to use:
 <div>
-    <img align="center" alt="Visual Studio Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
-    <img align="center" alt="Visual Studio Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
-    <img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /> &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Visual Studio Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a> &nbsp;
+  <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a> &nbsp;
+  <a href="https://www.gimp.org/" target="_blank"><img align="center" alt="GIMP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></a> &nbsp;
+  <a href="https://spline.design/" target="_blank"><img align="center" alt="Spline" width="30" src="Images/spline.png"></a> &nbsp;
 </div>
 
 #### Operating Systems I know how to use:
 <div>
-  <img align="center" alt="Windows" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> &nbsp;
-  <img align="center" alt="Spline" width="30" src="Images/spline.png"> &nbsp;
+  <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img align="center" alt="Windows" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a> &nbsp;
 </div>
 
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
-<img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp;
-<img algin="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;
-<img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> &nbsp;
-<img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
-<img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> &nbsp;
-<img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> &nbsp;
-<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> &nbsp;
-<img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> &nbsp;
-<img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <a href="https://react.dev/" target="_blank"><img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> &nbsp;
+  <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
+  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a> &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
+  <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> &nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> &nbsp;
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> &nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a> &nbsp;
+  <a href="https://www.java.com/en/" target="_blank"><img algin="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> &nbsp; <br />
+  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a> &nbsp;
 </div>
 
 </div>
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/lucsas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucsas" height="30" width="40" /></a>
-<a href="https://instagram.com/lucsas.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsas.l" height="30" width="40" /></a>
-<a href="https://www.behance.net/lucaslira27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucaslira27" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23686993/lucas-lira" target="_blank"><img align="center" alt="Stack Overflow" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a> &nbsp;
+<a href="https://codepen.io/LucsasL" target="_blank"><img align="center" alt="Codepen" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/lucsas/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucsas" height="30" width="40" /></a> &nbsp;
+<a href="https://instagram.com/lucsas.l" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucsas.l" height="30" width="40" /></a> &nbsp;
+<a href="https://www.behance.net/lucaslira27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucaslira27" height="30" width="40" /></a> &nbsp;
 </p> <br />
 
 <h2>⚙️ GitHub Analytics</h2>
