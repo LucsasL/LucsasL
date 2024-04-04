@@ -51,7 +51,9 @@ My goals resumes in:
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
   <a href="https://react.dev/" target="_blank"><img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> &nbsp;
+  <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
   <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> &nbsp;
   <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> &nbsp;
