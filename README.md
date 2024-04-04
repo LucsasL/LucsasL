@@ -45,6 +45,7 @@ My goals resumes in:
 #### Operating Systems I know how to use:
 <div>
   <img align="center" alt="Windows" height="30" src="" /> &nbsp;
+  <img align="center" alt="Git" width="30" src="images/spline.png"> &nbsp;
 </div>
 
 #### I've been studying:
