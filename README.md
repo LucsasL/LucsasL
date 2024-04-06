@@ -63,10 +63,6 @@ My goals resumes in:
 </div>
 
 <div>
-  <img src="Images/blank.jpg" height="8px" opacity="0" />
-</div>
-
-<div>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> &nbsp;
