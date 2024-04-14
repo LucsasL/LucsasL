@@ -14,7 +14,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End and Back-End Technologies**
   
-- 🌱 I’m currently learning **C, Tailwind CSS, React JS, Django, Flask, MySQL and Sass**
+- 🌱 I’m currently learning **React JS, Vue Js, Node JS, Next JS, Express JS, MongoDB, Mongoose, Redux Toolkit, C, Tailwind CSS, Django, Flask, MySQL and Sass**
 
 - 👯 I’m looking to collaborate on **small projects**
 
