@@ -1,11 +1,12 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
-
-<div>
-  <img src="Images/Lucsas.png" align="right" width="40%">
-</div>
   
 # Hi👋, I'm Lucas Lira
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
+
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+</div>
+
 ### A passionate frontend developer & PPC Manager from Brazil
 
 My goals resumes in:
@@ -21,6 +22,8 @@ My goals resumes in:
 - 💬 Ask me about **HTML, CSS, JavaScript and Python**
 
 ## 🛠️ Tech Stack
+
+<img src="Images/Lucsas.png" align="right" width="40%">
   
 #### I have knowledge in: <br>
 
@@ -33,8 +36,6 @@ My goals resumes in:
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a> &nbsp;
 </div>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 #### Tools I know how to use:
 <div>
