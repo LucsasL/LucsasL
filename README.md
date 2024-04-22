@@ -15,11 +15,11 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End and Back-End Technologies**
   
-- 🌱 I’m currently learning **React JS, Vue Js, Node JS, Next JS, Express JS, MongoDB, Mongoose, Socket IO, Redux Toolkit, TypeScript, Tailwind CSS, Sass, Django, Flask, C, Java and MySQL**
+- 🌱 I’m currently learning **React JS, Vue Js, Node JS, Next JS, Express JS, MongoDB, Mongoose, Socket IO, Redux Toolkit, Tailwind CSS, Sass, Django, Flask, C, Java and MySQL**
 
 - 👯 I’m looking to collaborate on **small projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript and Python**
 
 ## 🛠️ Tech Stack
 
