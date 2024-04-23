@@ -92,12 +92,12 @@ My goals resumes in:
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
-  <img width="60%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=000&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
-  <img width="39%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&langs_count=10&bg_color=000&title_color=8652ce&text_color=38bcad&border_color=8652ce">
+  <img width="60%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=060606&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
+  <img width="39%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&langs_count=10&bg_color=060606&title_color=8652ce&text_color=38bcad&border_color=8652ce">
 </div><br>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=000&border=8652ce&dates=fb8c00" alt="LucsasL">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=060606&border=8652ce&dates=fb8c00" alt="LucsasL">
 </div><br>
 
 <div><br>
