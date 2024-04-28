@@ -33,8 +33,9 @@ My goals resumes in:
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="Lucsas-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> &nbsp;
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Lucsas-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> &nbsp;
   <a href="https://gsap.com/" target="_blank"><img align="center" alt="GSAP" height="30" width="30" src="Images/gsap.svg" /></a> &nbsp;
-  <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
+  <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> &nbsp;
+  <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a> &nbsp;
 </div>
 
@@ -66,7 +67,6 @@ My goals resumes in:
 </div>
 
 <div>
-  <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> &nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a> &nbsp;
