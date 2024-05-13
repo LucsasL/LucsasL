@@ -30,6 +30,7 @@ My goals resumes in:
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a> &nbsp;
+  <a href="https://react.dev/" target="_blank"><img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="Lucsas-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a> &nbsp;
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Lucsas-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> &nbsp;
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> &nbsp;
@@ -55,7 +56,6 @@ My goals resumes in:
 
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
-  <a href="https://react.dev/" target="_blank"><img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> &nbsp;
   <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
   <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> &nbsp;
   <a href="https://nextjs.org/" target="_blank"><img align="center" alt="Next JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a> &nbsp;
