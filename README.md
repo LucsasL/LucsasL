@@ -27,7 +27,7 @@ My goals resumes in:
   
 #### I have knowledge in: <br>
 
-<div height="40px">
+<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a> &nbsp;
   <a href="https://react.dev/" target="_blank"><img align="center" alt="React JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a> &nbsp;
@@ -39,6 +39,7 @@ My goals resumes in:
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> &nbsp;
   <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a> &nbsp;
+  <img align="center" height="60" src="Images/blank.png">
 </div>
 
 <div>
