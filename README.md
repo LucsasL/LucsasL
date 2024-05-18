@@ -38,8 +38,8 @@ My goals resumes in:
   <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> &nbsp;
   <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a> &nbsp;
-  <img align="center" height="60" src="Images/blank.png">
+  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+  <img align="center" height="60" width="10" src="Images/blank.png">
 </div>
 
 <div>
