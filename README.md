@@ -52,6 +52,7 @@ My goals resumes in:
   <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a> &nbsp;
   <a href="https://www.gimp.org/" target="_blank"><img align="center" alt="GIMP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></a> &nbsp;
   <a href="https://spline.design/" target="_blank"><img align="center" alt="Spline" width="30" src="Images/spline.png"></a> &nbsp;
+  <a href="https://vercel.com/" target="_blank"><img align="center" alt="Vercel" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /></a> &nbsp;
 </div>
 
 #### Operating Systems I know how to use:
