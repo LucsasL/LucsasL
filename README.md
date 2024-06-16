@@ -60,6 +60,13 @@ My goals resumes in:
   <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img align="center" alt="Windows" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a> &nbsp;
 </div>
 
+#### CI/CD Tools I know:
+<div>
+  <a href="https://github.com/" target="_blank"><img algin="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a> &nbsp;
+  <a href="https://about.gitlab.com/" target="_blank"><img algin="center" alt="GitLab" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /></a> &nbsp;
+  <a href="https://bitbucket.org/" target="_blank"><img algin="center" alt="BitBucket" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" /></a> &nbsp;
+</div>
+
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
   <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
@@ -80,7 +87,7 @@ My goals resumes in:
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a> &nbsp;
   <a href="https://www.java.com/en/" target="_blank"><img algin="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a> &nbsp;
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img align="center" alt="Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a> &nbsp;
 </div>
 
 </div>
