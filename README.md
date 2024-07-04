@@ -38,6 +38,7 @@ My goals resumes in:
   <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
   <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux Toolkit" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /></a> &nbsp;
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> &nbsp;
+  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
   <img align="center" height="60" width="10" src="Images/blank.png">
 </div>
@@ -71,7 +72,6 @@ My goals resumes in:
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
   <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
-  <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> &nbsp;
   <a href="https://nextjs.org/" target="_blank"><img align="center" alt="Next JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a> &nbsp;
   <a href="http://expressjs.com/" target="_blank"><img align="center" alt="Express JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a> &nbsp;
   <a href="https://www.mongodb.com/en-us" target="_blank"><img align="center" alt="Mongo DB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a> &nbsp;
