@@ -25,7 +25,7 @@ My goals resumes in:
 
 <img src="Images/Lucsas.png" align="right" width="40%">
   
-#### I have knowledge in: <br>
+### I have knowledge in: <br>
 
 #### Front-End:
 
