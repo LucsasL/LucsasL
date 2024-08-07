@@ -84,17 +84,22 @@ My goals resumes in:
   <a href="https://bitbucket.org/" target="_blank"><img algin="center" alt="BitBucket" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" /></a> &nbsp;
 </div>
 
+#### Package Managers and Bundlers:
+<div>
+  <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="NPM" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a> &nbsp;
+  <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></a> &nbsp;
+</div>
+
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
   <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
   <a href="https://socket.io/" target="_blank"><img align="center" alt="Socket.IO" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" /></a> &nbsp;
   <a href="https://www.cypress.io/" target="_blank"><img align="center" alt="Cypress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" /></a> &nbsp;
-  <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></a> &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
+  <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a> &nbsp;
 </div>
 
 <div>
-  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
-  <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a> &nbsp;
   <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> &nbsp;
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a> &nbsp;
