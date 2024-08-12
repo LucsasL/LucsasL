@@ -15,7 +15,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End and Back-End Technologies**
   
-- 🌱 I’m currently learning **Vue Js, Next JS, Express JS, MongoDB, Mongoose, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
+- 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, PHP, Wordpress, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
 
 - 👯 I’m looking to collaborate on **small projects**
 
@@ -97,6 +97,8 @@ My goals resumes in:
   <a href="https://www.cypress.io/" target="_blank"><img align="center" alt="Cypress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" /></a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a> &nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a> &nbsp;
+  <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Kubernetes" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></a> &nbsp;
 </div>
 
 <div>
@@ -104,6 +106,8 @@ My goals resumes in:
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a> &nbsp;
   <a href="https://www.java.com/en/" target="_blank"><img algin="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> &nbsp;
+  <a href="https://www.php.net/" target="_blank"><img algin="center" alt="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a> &nbsp;
+  <a href="" target="_blank"><img algin="center" alt="Wordpress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" /></a> &nbsp;
 </div>
 
 </div>
