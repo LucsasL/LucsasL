@@ -15,7 +15,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End and Back-End Technologies**
   
-- 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, PHP, Wordpress, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
+- 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, Amazon Web Services, PHP, Wordpress, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
 
 - 👯 I’m looking to collaborate on **small projects**
 
@@ -99,6 +99,7 @@ My goals resumes in:
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a> &nbsp;
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a> &nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Kubernetes" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></a> &nbsp;
+  <a href="" target="_blank"><img algin="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a> &nbsp;
 </div>
 
 <div>
