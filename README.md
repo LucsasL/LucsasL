@@ -52,6 +52,7 @@ My goals resumes in:
   <a href="http://expressjs.com/" target="_blank"><img align="center" alt="Express JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a> &nbsp;
   <a href="https://www.mongodb.com/en-us" target="_blank"><img align="center" alt="Mongo DB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a> &nbsp;
   <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="Mongoose" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" /></a> &nbsp;
+  <a href="https://www.php.net/" target="_blank"><img algin="center" alt="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a> &nbsp;
   <img align="center" height="60" width="10" src="Images/blank.png">
 </div>
 
@@ -107,7 +108,6 @@ My goals resumes in:
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a> &nbsp;
   <a href="https://www.java.com/en/" target="_blank"><img algin="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> &nbsp;
-  <a href="https://www.php.net/" target="_blank"><img algin="center" alt="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a> &nbsp;
   <a href="https://wordpress.com/" target="_blank"><img algin="center" alt="Wordpress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" /></a> &nbsp;
 </div>
 
