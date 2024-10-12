@@ -100,7 +100,9 @@ My goals resumes in:
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a> &nbsp;
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a> &nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Kubernetes" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></a> &nbsp;
-  <a href="" target="_blank"><img algin="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a> &nbsp;
+  <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"><img algin="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a> &nbsp;
+  <a href="https://threejs.org/" target="_blank"><img align="center" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+</a> &nbsp;
 </div>
 
 <div>
