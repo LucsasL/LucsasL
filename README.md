@@ -38,6 +38,7 @@ My goals resumes in:
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Lucsas-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> &nbsp;
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> &nbsp;
   <a href="https://gsap.com/" target="_blank"><img align="center" alt="GSAP" height="30" width="30" src="Images/gsap.svg" /></a> &nbsp;
+  <a href="https://threejs.org/" target="_blank"><img align="center" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" /></a> &nbsp;
   <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
   <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux Toolkit" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /></a> &nbsp;
   <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
@@ -101,8 +102,6 @@ My goals resumes in:
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a> &nbsp;
   <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Kubernetes" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></a> &nbsp;
   <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"><img algin="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a> &nbsp;
-  <a href="https://threejs.org/" target="_blank"><img align="center" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-</a> &nbsp;
 </div>
 
 <div>
