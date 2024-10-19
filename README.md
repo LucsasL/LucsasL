@@ -41,6 +41,10 @@ My goals resumes in:
   <a href="https://threejs.org/" target="_blank"><img align="center" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" /></a> &nbsp;
   <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
   <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux Toolkit" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /></a> &nbsp;
+  <img align="center" height="60" width="10" src="Images/blank.png">
+</div>
+
+<div>
   <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
   <img align="center" height="60" width="10" src="Images/blank.png">
 </div>
