@@ -46,7 +46,6 @@ My goals resumes in:
 
 <div>
   <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
-  <img align="center" height="60" width="10" src="Images/blank.png">
 </div>
 
 #### Back-End:
