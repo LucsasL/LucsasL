@@ -15,7 +15,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End and Back-End Technologies**
   
-- 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, Amazon Web Services, PHP, Wordpress, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
+- 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, Amazon Web Services, Wordpress, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
 
 - 👯 I’m looking to collaborate on **small projects**
 
