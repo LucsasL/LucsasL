@@ -38,14 +38,16 @@ My goals resumes in:
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" alt="Lucsas-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a> &nbsp;
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a> &nbsp;
   <a href="https://gsap.com/" target="_blank"><img align="center" alt="GSAP" height="30" width="30" src="Images/gsap.svg" /></a> &nbsp;
-  <a href="https://threejs.org/" target="_blank"><img align="center" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" /></a> &nbsp;
+  <a href="https://threejs.org/" target="_blank"><img align="center" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg#gh-light-mode-only" /></a> &nbsp;
+  <a href="https://threejs.org/" target="_blank"><img align="center" alt="Three.js" height="30" width="30" src="./Images/threejs.png" /></a> &nbsp;
   <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
   <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux Toolkit" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /></a> &nbsp;
   <img align="center" height="60" width="10" src="Images/blank.png">
 </div>
 
 <div>
-  <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a> &nbsp;
+  <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg#gh-light-mode-only" /></a> &nbsp;
+  <a href="https://www.markdownguide.org/" target="_blank"><img align="center" alt="Markdown" height="30" src="./Images/markdown-white.png" /></a> &nbsp;
 </div>
 
 #### Back-End:
@@ -53,7 +55,8 @@ My goals resumes in:
 <div>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> &nbsp;
   <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="Node JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a> &nbsp;
-  <a href="http://expressjs.com/" target="_blank"><img align="center" alt="Express JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a> &nbsp;
+  <a href="http://expressjs.com/" target="_blank"><img align="center" alt="Express JS" height="30" width="30" src="./Images/express-white.png" /></a> &nbsp;
+  <a href="http://expressjs.com/" target="_blank"><img align="center" alt="Express JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg#gh-light-mode-only" /></a> &nbsp;
   <a href="https://www.mongodb.com/en-us" target="_blank"><img align="center" alt="Mongo DB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a> &nbsp;
   <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="Mongoose" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" /></a> &nbsp;
   <a href="https://www.php.net/" target="_blank"><img algin="center" alt="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a> &nbsp;
@@ -84,7 +87,8 @@ My goals resumes in:
 
 #### CI/CD Tools I know:
 <div>
-  <a href="https://github.com/" target="_blank"><img algin="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a> &nbsp;
+  <a href="https://github.com/" target="_blank"><img algin="center" alt="GitHub" height="30" width="30" src="./Images/github-white.png" /></a> &nbsp;
+  <a href="https://github.com/" target="_blank"><img algin="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg#gh-light-mode-only" /></a> &nbsp;
   <a href="https://about.gitlab.com/" target="_blank"><img algin="center" alt="GitLab" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /></a> &nbsp;
   <a href="https://bitbucket.org/" target="_blank"><img algin="center" alt="BitBucket" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" /></a> &nbsp;
 </div>
@@ -98,7 +102,8 @@ My goals resumes in:
 #### I've been studying:
 <div style="display: block; margin-top: 10px">
   <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
-  <a href="https://socket.io/" target="_blank"><img align="center" alt="Socket.IO" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" /></a> &nbsp;
+  <a href="https://socket.io/" target="_blank"><img align="center" alt="Socket.IO" height="30" width="30" src="./Images/socketio-white.png" /></a> &nbsp;
+  <a href="https://socket.io/" target="_blank"><img align="center" alt="Socket.IO" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg#gh-light-mode-only" /></a> &nbsp;
   <a href="https://www.cypress.io/" target="_blank"><img align="center" alt="Cypress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" /></a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a> &nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></a> &nbsp;
@@ -109,7 +114,8 @@ My goals resumes in:
 
 <div>
   <a href="https://www.djangoproject.com/" target="_blank"><img align="center" alt="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a> &nbsp;
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></a> &nbsp;
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="./Images/flask-white.png" /></a> &nbsp;
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img align="center" alt="Flask" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg#gh-light-mode-only" /></a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a> &nbsp;
   <a href="https://www.java.com/en/" target="_blank"><img algin="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> &nbsp;
   <a href="https://wordpress.com/" target="_blank"><img algin="center" alt="Wordpress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" /></a> &nbsp;
