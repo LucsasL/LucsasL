@@ -1,7 +1,6 @@
 ![Sup, I’m Lucsas](Images/Lucsas%20GitHub%20Banner.png)
-
+  
 # Hi👋, I'm Lucas Lira
-
 <img src="https://badges.pufler.dev/repos/lucsasl"> <img src="https://badges.pufler.dev/commits/monthly/lucsasl">
 
 <div>
@@ -13,7 +12,9 @@
 My goals resumes in:
 
 - 📚 Studying programming to become a programmer
+  
 - 👀 Actually exploring the **Front-End and Back-End Technologies**
+  
 - 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, Amazon Web Services, Wordpress, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
 
 - 👯 I’m looking to collaborate on **small projects**
@@ -84,7 +85,6 @@ My goals resumes in:
 </div>
 
 #### Tools I know how to use:
-
 <div>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Visual Studio Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a> &nbsp;
   <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a> &nbsp;
@@ -94,14 +94,12 @@ My goals resumes in:
 </div>
 
 #### Operating Systems I know how to use:
-
 <div>
   <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img align="center" alt="Windows" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img align="center" alt="Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a> &nbsp;
 </div>
 
 #### CI/CD Tools I know:
-
 <div>
   <a href="https://github.com/" target="_blank">
     <picture>
@@ -115,14 +113,12 @@ My goals resumes in:
 </div>
 
 #### Package Managers and Bundlers:
-
 <div>
   <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="NPM" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a> &nbsp;
   <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></a> &nbsp;
 </div>
 
 #### I've been studying:
-
 <div style="display: block; margin-top: 10px">
   <a href="https://vuejs.org/" target="_blank"><img align="center" alt="Vue JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /></a> &nbsp;
   <a href="https://socket.io/" target="_blank">
@@ -157,7 +153,6 @@ My goals resumes in:
 </div>
 
 ### 🌐 Connect with me:
-
 <p align="left">
 <a href="https://stackoverflow.com/users/23686993/lucas-lira" target="_blank"><img align="center" alt="Stack Overflow" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" /></a> &nbsp;
 <a href="https://codepen.io/LucsasL" target="_blank"><img align="center" alt="Codepen" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" /></a> &nbsp;
@@ -170,25 +165,12 @@ My goals resumes in:
 
 <div>
   <a href="https://github.com/lucsasl/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=f0f6fc&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=transparent&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true" />
-    <img width="60%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=f0f6fc&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
-  </picture
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&langs_count=10&bg_color=transparent&title_color=8652ce&text_color=38bcad&border_color=8652ce" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&langs_count=10&bg_color=transparent&title_color=8652ce&text_color=38bcad&border_color=8652ce" />
-    <img width="39%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&langs_count=10&bg_color=transparent&title_color=8652ce&text_color=38bcad&border_color=8652ce">
-  </picture>
+  <img width="60%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucsasl&show_icons=true&bg_color=060606&title_color=8652ce&text_color=38bcad&icon_color=3d52fa&border_color=8652ce&include_all_commits=true&count-private=true">
+  <img width="39%" height="215em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsasl&layout=compact&langs_count=10&bg_color=060606&title_color=8652ce&text_color=38bcad&border_color=8652ce">
 </div><br>
 
 <div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=transparent&border=8652ce&dates=fb8c00" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=transparent&border=8652ce&dates=fb8c00" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=transparent&border=8652ce&dates=fb8c00" alt="LucsasL">
-  </picture>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucsasl&theme=highcontrast&card_width=830&background=060606&border=8652ce&dates=fb8c00" alt="LucsasL">
 </div><br>
 
 <div><br>
