@@ -58,6 +58,8 @@ My goals resumes in:
       <img align="center" alt="Markdown" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     </picture>
   </a> &nbsp;
+  <a href="https://wordpress.com/" target="_blank"><img algin="center" alt="Wordpress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" /></a> &nbsp;
+
 </div>
 
 #### Back-End:
@@ -147,7 +149,6 @@ My goals resumes in:
   </a> &nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="center" alt="Language C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a> &nbsp;
   <a href="https://www.java.com/en/" target="_blank"><img algin="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a> &nbsp;
-  <a href="https://wordpress.com/" target="_blank"><img algin="center" alt="Wordpress" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" /></a> &nbsp;
 </div>
 
 </div>
