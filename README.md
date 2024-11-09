@@ -15,7 +15,7 @@ My goals resumes in:
   
 - 👀 Actually exploring the **Front-End and Back-End Technologies**
   
-- 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, Amazon Web Services, Wordpress, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
+- 🌱 I’m currently learning **Vue Js, Docker, Kubernetes, Amazon Web Services, Socket IO, Tailwind CSS, Django, Flask, C, Java and MySQL (Sheeeeshh)**
 
 - 👯 I’m looking to collaborate on **small projects**
 
@@ -42,7 +42,7 @@ My goals resumes in:
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./Images/threejs.png">
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg#gh-light-mode-only">
-      <img align="center" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+      <img align="middle" alt="Three.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
     </picture>
   </a> &nbsp;
   <a href="https://jestjs.io/" target="_blank"><img align="center" alt="Jest JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a> &nbsp;
