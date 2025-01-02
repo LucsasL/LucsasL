@@ -103,6 +103,9 @@ My goals resumes in:
 </div>
 
 #### CI/CD Tools I know:
+
+<img src="Images/haking.jpg" align="right" width="40%">
+
 <div>
   <a href="https://github.com/" target="_blank">
     <picture>
@@ -116,9 +119,6 @@ My goals resumes in:
 </div>
 
 #### Package Managers and Bundlers:
-
-<img src="Images/haking.jpg" align="right" width="40%">
-
 <div>
   <a href="https://www.npmjs.com/" target="_blank"><img align="center" alt="NPM" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></a> &nbsp;
   <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vite" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /></a> &nbsp;
