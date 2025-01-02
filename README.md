@@ -87,6 +87,9 @@ My goals resumes in:
 </div>
 
 #### Tools I know how to use:
+
+<img src="Images/haking.jpg" align="right" width="40%">
+
 <div>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Visual Studio Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a> &nbsp;
   <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a> &nbsp;
