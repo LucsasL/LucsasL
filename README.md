@@ -104,8 +104,6 @@ My goals resumes in:
 
 #### CI/CD Tools I know:
 
-<img src="Images/haking.jpg" align="right" width="40%">
-
 <div>
   <a href="https://github.com/" target="_blank">
     <picture>
